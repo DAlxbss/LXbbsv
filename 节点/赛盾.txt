@@ -139,7 +139,59 @@ vmess://YXV0bzo0NTE2MTMyYS1hMDQ2LTQ1MDUtYTkwYS1mMTUzNzM2MzMzMGZAODIuMTgwLjEzMC4x
 
 
 
-
+##提取52个
+trojan://R3voFfZoYnFYVRBLnH@de-3.topeinstein.com:443#Germany-DE-3-Rate:1.0
+trojan://R3voFfZoYnFYVRBLnH@nl-3.concert-geb.com:443#Netherlands-NL-3-Rate:1.0
+trojan://R3voFfZoYnFYVRBLnH@ee-1.kamediorg.com:443#Estonia-EE-1-Rate:0.1
+trojan://R3voFfZoYnFYVRBLnH@uk-1.fishchipsexpress.com:443#UnitedKingdom-UK-1-Rate:1.0
+trojan://R3voFfZoYnFYVRBLnH@au-1.australiastudio.com:443#Australia-AU-1-Rate:0.5
+trojan://R3voFfZoYnFYVRBLnH@tw-1.chianginc.com:443#Taiwan-TW-1-Rate:1.0
+trojan://R3voFfZoYnFYVRBLnH@iplc-hk-1.trojanwheel.com:7001#HongKong-IPLC-HK-1-Rate:1.0
+trojan://R3voFfZoYnFYVRBLnH@iplc-hk-2.trojanwheel.com:8001#HongKong-IPLC-HK-2-Rate:1.0
+trojan://R3voFfZoYnFYVRBLnH@iplc-hk-3.trojanwheel.com:7002#HongKong-IPLC-HK-3-Rate:1.0
+trojan://R3voFfZoYnFYVRBLnH@iplc-hk-4.trojanwheel.com:8002#HongKong-IPLC-HK-4-Rate:1.0
+trojan://R3voFfZoYnFYVRBLnH@iplc-hk-5.trojanwheel.com:7003#HongKong-IPLC-HK-5-Rate:1.0
+trojan://R3voFfZoYnFYVRBLnH@iplc-hk-6.trojanwheel.com:8003#HongKong-IPLC-HK-6-Rate:1.0
+trojan://R3voFfZoYnFYVRBLnH@fw-hk-v6-1.trojanwheel.com:5001#HongKong-FW-HK-V6-1-Rate:1.0
+trojan://R3voFfZoYnFYVRBLnH@fw-hk-v6-2.trojanwheel.com:5002#HongKong-FW-HK-V6-2-Rate:1.0
+trojan://R3voFfZoYnFYVRBLnH@fw-hk-v6-3.trojanwheel.com:5003#HongKong-FW-HK-V6-3-Rate:1.0
+trojan://R3voFfZoYnFYVRBLnH@fw-hk-v6-4.trojanwheel.com:5004#HongKong-FW-HK-V6-4-Rate:1.0
+trojan://R3voFfZoYnFYVRBLnH@fw-jp-test1.trojanwheel.com:5011#Japan-FW-JP-TEST1-Rate:1.0
+trojan://R3voFfZoYnFYVRBLnH@fw-jp-test2.trojanwheel.com:5012#Japan-FW-JP-TEST2-Rate:1.0
+trojan://R3voFfZoYnFYVRBLnH@fw-jp1.rise-fuji.com:5011#Japan-FW-JP1-Rate:1.0
+trojan://R3voFfZoYnFYVRBLnH@fw-jp2.rise-fuji.com:5012#Japan-FW-JP2-Rate:1.0
+trojan://R3voFfZoYnFYVRBLnH@fw-us1.regentgrandvalley.com:5021#UnitedStates-FW-US1-Rate:1.5
+trojan://R3voFfZoYnFYVRBLnH@fw-us2.regentgrandvalley.com:5022#UnitedStates-FW-US2-Rate:1.0
+trojan://R3voFfZoYnFYVRBLnH@fw-us3.regentgrandvalley.com:5023#UnitedStates-FW-US3-Rate:1.0
+trojan://R3voFfZoYnFYVRBLnH@fw-us4.regentgrandvalley.com:5023#UnitedStates-FW-US4-Rate:1.0
+trojan://R3voFfZoYnFYVRBLnH@fw-au1.australiastudio.com:5042#Australia-FW-AU1-Rate:1.0
+trojan://R3voFfZoYnFYVRBLnH@fw-au2.australiastudio.com:5043#Australia-FW-AU2-Rate:1.0
+trojan://R3voFfZoYnFYVRBLnH@fw-au3.australiastudio.com:5044#Australia-FW-AU3-Rate:1.0
+trojan://R3voFfZoYnFYVRBLnH@fw-uk1.fishchipsexpress.com:5031#UnitedKingdom-FW-UK1-Rate:1.0
+trojan://R3voFfZoYnFYVRBLnH@fw-sg1.victoriamitrepeak.com:5016#Singapore-FW-SG1-Rate:1.0
+trojan://R3voFfZoYnFYVRBLnH@au-2.australiastudio.com:443#Australia-AU-2-Rate:1.0
+trojan://R3voFfZoYnFYVRBLnH@au-3.australiastudio.com:443#Australia-AU-3-Rate:1.0
+trojan://R3voFfZoYnFYVRBLnH@au-4.australiastudio.com:443#Australia-AU-4-Rate:1.0
+trojan://R3voFfZoYnFYVRBLnH@de-2.topeinstein.com:443#Germany-DE-2-Rate:1.0
+trojan://R3voFfZoYnFYVRBLnH@us-1.regentgrandvalley.com:443#UnitedStates-US-1-Rate:1.5
+trojan://R3voFfZoYnFYVRBLnH@us-2.regentgrandvalley.com:443#UnitedStates-US-2-Rate:1.0
+trojan://R3voFfZoYnFYVRBLnH@us-3.regentgrandvalley.com:443#UnitedStates-US-3-Rate:1.0
+trojan://R3voFfZoYnFYVRBLnH@hk-1.victoriamitrepeak.com:465#HongKong-HK-1-Rate:1.0
+trojan://R3voFfZoYnFYVRBLnH@hk-2.victoriamitrepeak.com:465#HongKong-HK-2-Rate:1.0
+trojan://R3voFfZoYnFYVRBLnH@sg-1.victoriamitrepeak.com:443#Singapore-SG-1-Rate:1.0
+trojan://R3voFfZoYnFYVRBLnH@sg-2.victoriamitrepeak.com:443#Singapore-SG-2-Rate:1.0
+trojan://R3voFfZoYnFYVRBLnH@ty-1.rise-fuji.com:443#Japan-TY-1-Rate:1.0
+trojan://R3voFfZoYnFYVRBLnH@ty-2.rise-fuji.com:443#Japan-TY-2-Rate:1.0
+trojan://R3voFfZoYnFYVRBLnH@ty-3.rise-fuji.com:443#Japan-TY-3-Rate:1.0
+trojan://R3voFfZoYnFYVRBLnH@ty-4.rise-fuji.com:443#Japan-TY-4-Rate:1.0
+trojan://R3voFfZoYnFYVRBLnH@os-1.rise-fuji.com:443#Japan-OS-1-Rate:1.0
+trojan://R3voFfZoYnFYVRBLnH@os-2.rise-fuji.com:443#Japan-OS-2-Rate:1.0
+trojan://R3voFfZoYnFYVRBLnH@os-3.rise-fuji.com:443#Japan-OS-3-Rate:1.0
+trojan://R3voFfZoYnFYVRBLnH@nl-1.concert-geb.com:443#Netherlands-NL-1-Rate:1.0
+trojan://R3voFfZoYnFYVRBLnH@nl-2.concert-geb.com:443#Netherlands-NL-2-Rate:1.0
+trojan://R3voFfZoYnFYVRBLnH@tw-2.chianginc.com:443#Taiwan-TW-2-Rate:1.0
+trojan://R3voFfZoYnFYVRBLnH@v6-us3.nigirocloud.com:4003#UnitedStates-V6-US3-Rate:1.0
+trojan://R3voFfZoYnFYVRBLnH@v6-nl1.nigirocloud.com:4003#Netherlands-V6-NL1-Rate:1.0
 
 
 
