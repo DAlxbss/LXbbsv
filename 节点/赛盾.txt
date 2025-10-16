@@ -106,25 +106,6 @@ vless://YXV0bzpkZjI0NWJmOC04MjUzLTQwMjktOTBkOC1lZjMwY2ZhYzc1ZjFAMTgzLjI0MC4yNDUu
 
 
 
-
-
-
-
-#闪电vpn
-vmess://YXV0bzo2MjgwMDEyYi01NGVlLTQ5OGItOGRhNi1iODM0YmE0NDk1NWRAMTYyLjI0OC43Ny4yMjc6NTUxMg?remarks=JMS-794021@c55s5.portablesubmarines.com:5512&alterId=0
-vmess://YXV0bzo2MjgwMDEyYi01NGVlLTQ5OGItOGRhNi1iODM0YmE0NDk1NWRAMjEyLjUwLjI0Ny44OTo1NTEy?remarks=JMS-794021@c55s4.portablesubmarines.com:5512&alterId=0
-vmess://YXV0bzo2MjgwMDEyYi01NGVlLTQ5OGItOGRhNi1iODM0YmE0NDk1NWRAMTk4LjE4MS40Ni4xMzg6NTUxMg?remarks=JMS-794021@c55s3.portablesubmarines.com:5512&alterId=0
-ss://YWVzLTI1Ni1nY206VlkyZ0VybW1xUlIyd01takA0NS42Mi4xMTEuMjM1OjU1MTI#JMS-794021@c55s2.portablesubmarines.com:5512
-ss://YWVzLTI1Ni1nY206VlkyZ0VybW1xUlIyd01takA5Ni40NS4xODkuNzo1NTEy#JMS-794021@c55s1.portablesubmarines.com:5512
-vmess://YXV0bzpmNzAzOWQwMC05M2JmLTQzNWQtODk1OS1iNmFiNDhhNjdiZjZAMjEyLjUwLjIyOC4xODo2NjA5?remarks=JMS-1246921@c11s801.portablesubmarines.com:6609&alterId=0
-vmess://YXV0bzpmNzAzOWQwMC05M2JmLTQzNWQtODk1OS1iNmFiNDhhNjdiZjZAMTYyLjI0OC43OS4yNTQ6NjYwOQ?remarks=JMS-1246921@c11s5.portablesubmarines.com:6609&alterId=0
-vmess://YXV0bzpmNzAzOWQwMC05M2JmLTQzNWQtODk1OS1iNmFiNDhhNjdiZjZAMTkyLjI0My4xMjQuMjI3OjY2MDk?remarks=JMS-1246921@c11s4.portablesubmarines.com:6609&alterId=0
-vmess://YXV0bzpmNzAzOWQwMC05M2JmLTQzNWQtODk1OS1iNmFiNDhhNjdiZjZAOTMuMTc5Ljk3LjExOjY2MDk?remarks=JMS-1246921@c11s3.portablesubmarines.com:6609&alterId=0
-ss://YWVzLTI1Ni1nY206TXJoem95NGhMc1RRMmR5eEA2NS40OS4yMTIuMTg1OjY2MDk#JMS-1246921@c11s2.portablesubmarines.com:6609
-ss://YWVzLTI1Ni1nY206TXJoem95NGhMc1RRMmR5eEAxOTkuMTE1LjIzMC43Njo2NjA5#JMS-1246921@c11s1.portablesubmarines.com:6609
-vmess://YXV0bzo2MjgwMDEyYi01NGVlLTQ5OGItOGRhNi1iODM0YmE0NDk1NWRAMjEyLjUwLjIzMC4xMDc6NTUxMg?remarks=JMS-794021@c55s801.portablesubmarines.com:5512&alterId=0
-
-
 #supervpn
 vless://YXV0bzpkNjVjYzE0Yy1mNTNmLTRmZTItYjI2Mi05Nzg1NjYwMTMxOWNAODcuMjI5LjEwOC4xNjc6NTQ0Mw?remarks=Netherlands//////supervpn%E6%8F%90%E5%8F%96&tls=1&peer=yandex.com&xtls=2&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a
 vless://YXV0bzpkNjVjYzE0Yy1mNTNmLTRmZTItYjI2Mi05Nzg1NjYwMTMxOWNAODcuMjI5Ljk3LjEwMzo1NDQz?remarks=Germany////supervpn%E6%8F%90%E5%8F%96&tls=1&peer=yandex.com&xtls=2&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a
