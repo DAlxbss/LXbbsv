@@ -2,7 +2,7 @@
   * 激光投影
 
 [rewrite_local]
-https://api.iosxiao.com/app/subscribe/getSubscribeData url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/jgty.js
+https://api.iosxiao.com/app/subscribe/getSubscribeData url script-response-body https://raw.githubusercontent.com/DAlxbss/LXbbsv/main/scrip/极光投影.js
 
 [mitm]
 hostname = api.iosxiao.com
