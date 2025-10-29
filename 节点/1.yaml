@@ -5,30 +5,32 @@ proxies:
     server: "172.236.130.46"                          # 从 JSON 提取的服务器地址
     port: 20272                                        # 从 JSON 提取的端口
     uuid: "D45FF326-2FC1-43EF-9C13-18BDFD4D2A7B"      # 从 JSON 提取的 UUID
-    encryption: "none"                                 # VLESS 不使用加密
-    tls: true                                          # 从 JSON 提取，启用 TLS
-    allowInsecure: true                                # 从 JSON 提取，允许不安全连接
+    encryption: "none"                                 # VLESS 不使用额外的加密
+    tls: true                                          # 启用 TLS
+    allowInsecure: true                                # 允许不安全连接
     settings:
       vnext:
-        - address: "172.236.130.46"                    # 重复使用的服务器地址
-          port: 20272                                  # 端口
+        - address: "172.236.130.46"                    # 服务器地址
+          port: 20272                                   # 端口
           users:
             - id: "D45FF326-2FC1-43EF-9C13-18BDFD4D2A7B"  # UUID
-              encryption: "none"                       # VLESS 不使用加密
+              encryption: "none"                       # VLESS 不需要加密
+              flow: ""                                 # 可根据需要自定义流控制
 
 streamSettings:
   network: "tcp"                                      # 使用 TCP 协议
-  security: "tls"                                     # 设置为 TLS
+  security: "tls"                                     # 启用 TLS
   tlsSettings:
-    allowInsecure: true                               # 从 JSON 提取，允许不安全连接
-    serverName: ""                                    # 可选，SSL 证书域名
-    alpn: []                                          # 可选
-    hpkp: ""                                          # 可选
+    allowInsecure: true                               # 允许不安全的请求
+    serverName: ""                                    # 服务器域名（可选）
+    alpn: []                                          # ALPN 配置（可选）
+    hpkp: ""                                          # HTTP Public Key Pinning（可选）
     publicKey: "gM4F9IA3kfOKKj10YFi76VMNswVHgS44wb8P8fZh0DU"  # 从 JSON 提取的公钥
-    shortId: ""                                       # 可选，短 ID
-    ech: ""                                           # 可选
-    plugin: "none"                                    # 插件配置，从 JSON 提取
-    flow: ""                                          # 根据需要自定义流
+    shortId: ""                                       # 短 ID（可选）
+    ech: ""                                           # ECH（可选）
+    plugin: "none"                                    # 插件配置（如果有，默认为无）
+    method: "auto"                                    # 加密方法（可根据需要调整）
+    udp: 1                                            # 从 JSON 提取的 UDP 设置（确保 UDP 可用）
 
 proxy-groups:
   - name: "Auto"
@@ -38,4 +40,4 @@ proxy-groups:
 
 rules:
   - DOMAIN-SET,cn,DIRECT                              # 中国大陆域名直连
-  - FINAL,新加坡-001🐮🐮🐮                            # 其他流量走 VLESS 代理
+  - FINAL,新加坡-001🐮🐮🐮                            # 其他流量走此 VLESS 代理
