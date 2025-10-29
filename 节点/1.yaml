@@ -1,21 +1,41 @@
 
 proxies:
-  - name: "VLESS Proxy"
+  - name: "新加坡-001🐮🐮🐮"
     type: vless
-    server: "172.236.130.46"           # 从 VLESS 链接中提取的服务器地址
-    port: 20272                         # 从 VLESS 链接中提取的端口号
-    uuid: "59bf9d82-0f40-4f11-be5c-2f1bb7f5dd1b"  # 从 VLESS 链接中的 UUID 提取
-    encrypt: "none"                     # VLESS 不使用加密
-    tls: true                           # 启用 TLS
-    flow: ""                            # 可选，自定义流控制
-    udp: true
+    server: "172.236.130.46"                          # 从 JSON 提取的服务器地址
+    port: 20272                                        # 从 JSON 提取的端口
+    uuid: "D45FF326-2FC1-43EF-9C13-18BDFD4D2A7B"      # 从 JSON 提取的 UUID
+    encryption: "none"                                 # VLESS 不使用加密
+    tls: true                                          # 从 JSON 提取，启用 TLS
+    allowInsecure: true                                # 从 JSON 提取，允许不安全连接
+    settings:
+      vnext:
+        - address: "172.236.130.46"                    # 重复使用的服务器地址
+          port: 20272                                  # 端口
+          users:
+            - id: "D45FF326-2FC1-43EF-9C13-18BDFD4D2A7B"  # UUID
+              encryption: "none"                       # VLESS 不使用加密
+
+streamSettings:
+  network: "tcp"                                      # 使用 TCP 协议
+  security: "tls"                                     # 设置为 TLS
+  tlsSettings:
+    allowInsecure: true                               # 从 JSON 提取，允许不安全连接
+    serverName: ""                                    # 可选，SSL 证书域名
+    alpn: []                                          # 可选
+    hpkp: ""                                          # 可选
+    publicKey: "gM4F9IA3kfOKKj10YFi76VMNswVHgS44wb8P8fZh0DU"  # 从 JSON 提取的公钥
+    shortId: ""                                       # 可选，短 ID
+    ech: ""                                           # 可选
+    plugin: "none"                                    # 插件配置，从 JSON 提取
+    flow: ""                                          # 根据需要自定义流
 
 proxy-groups:
   - name: "Auto"
     type: select
     proxies:
-      - "VLESS Proxy"                  # 使用 VLESS 代理
+      - "新加坡-001🐮🐮🐮"                             # 代理名称
 
 rules:
-  - DOMAIN-SET,cn,DIRECT              # 中国大陆网站直连
-  - FINAL,VLESS Proxy                 # 其他流量走 VLESS Proxy
+  - DOMAIN-SET,cn,DIRECT                              # 中国大陆域名直连
+  - FINAL,新加坡-001🐮🐮🐮                            # 其他流量走 VLESS 代理
