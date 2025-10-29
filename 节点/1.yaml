@@ -1,0 +1,20 @@
+
+proxies:
+  - name: "VLESS Proxy"
+    type: vless
+    server: "172.236.130.46"           # 从 VLESS 链接中提取的服务器地址
+    port: 20272                         # 从 VLESS 链接中提取的端口号
+    uuid: "yautbo518f4d8g4bm4y4f13a4r"  # 从 VLESS 链接中的 UUID 提取
+    encrypt: "none"                     # VLESS 不使用加密
+    tls: true                           # 启用 TLS
+    flow: ""                            # 可选，自定义流控制
+
+proxy-groups:
+  - name: "Auto"
+    type: select
+    proxies:
+      - "VLESS Proxy"                  # 使用 VLESS 代理
+
+rules:
+  - DOMAIN-SET,cn,DIRECT              # 中国大陆网站直连
+  - FINAL,VLESS Proxy                 # 其他流量走 VLESS Proxy
