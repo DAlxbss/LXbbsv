@@ -1,123 +1,46 @@
-
-#赛盾vpn提取
-vless://5c183802-747d-4d2f-a6f1-aff2d5d78401@8.209.76.208:443/?type=tcp&encryption=none&flow=&sni=github.githubassets.com&fp=chrome&security=reality&pbk=DNdTBHyztOVJOBJQX91YXEhNkWbSAntqUoTFBHc6Clw&sid=6ba85179e30d4fc2#GER
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@8.208.53.56:443/?type=tcp&encryption=none&flow=&sni=evt.ilovepdf.com&fp=chrome&security=reality&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=#UK
-vless://5c183802-747d-4d2f-a6f1-aff2d5d78401@47.245.101.23:443/?type=tcp&encryption=none&flow=&sni=api.digital-help-prd.autodesk.com&fp=chrome&security=reality&pbk=DNdTBHyztOVJOBJQX91YXEhNkWbSAntqUoTFBHc6Clw&sid=6ba85179e30d4fc2#SG
-vless://5c183802-747d-4d2f-a6f1-aff2d5d78401@8.218.89.132:443/?type=tcp&encryption=none&flow=&sni=api.digital-help-prd.autodesk.com&fp=chrome&security=reality&pbk=DNdTBHyztOVJOBJQX91YXEhNkWbSAntqUoTFBHc6Clw&sid=6ba85179e30d4fc2#HK
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@172.234.102.246:443/?type=tcp&encryption=none&flow=&sni=github.githubassets.com&fp=chrome&security=reality&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=#SE
-vless://5c183802-747d-4d2f-a6f1-aff2d5d78401@8.219.13.117:443/?type=tcp&encryption=none&flow=&sni=prod.adobeccstatic.com&fp=chrome&security=reality&pbk=DNdTBHyz...&sid=6ba85179e30d4fc2#SG_8.219.13.117
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.254.207.127:443/?type=tcp&encryption=none&flow=&sni=cdn.userway.org&fp=chrome&security=reality&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=7266e6#MYS_47.254.207.127
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@38.180.243.37:443/?type=tcp&encryption=none&flow=&sni=www.starwars.com&fp=chrome&security=reality&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=#USA_38.180.243.37
-vless://5c183802-747d-4d2f-a6f1-aff2d5d78401@47.76.214.7:443/?type=tcp&encryption=none&flow=&sni=cdn.userway.org&fp=chrome&security=reality&pbk=DNdTBHyz...&sid=6ba85179e30d4fc2#TWN_47.76.214.7
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.83.175.231:443/?type=tcp&encryption=none&flow=&sni=cdn.userway.org&fp=chrome&security=reality&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=#HK_47.83.175.231
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@103.140.136.6:443/?type=tcp&encryption=none&flow=&sni=cdn77.api.userway.org&fp=chrome&security=reality&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=#JPN_103.140.136.6
-vless://5c183802-747d-4d2f-a6f1-aff2d5d78401@8.220.217.191:443/?type=tcp&encryption=none&flow=&sni=cdn-dynmedia-1.microsoft.com&fp=chrome&security=reality&pbk=DNdTBHyz...&sid=6ba85179e30d4fc2#KR_8.220.217.191
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@8.213.196.81:443/?type=tcp&encryption=none&flow=&sni=cdn77.api.userway.org&fp=chrome&security=reality&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=7266e6#THA_8.213.196.81
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@65.20.74.132:443/?type=tcp&encryption=none&flow=&sni=bh.contextweb.com&fp=chrome&security=reality&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=#IND_65.20.74.132
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@154.205.156.52:443/?type=tcp&encryption=none&flow=&sni=github.githubassets.com&fp=chrome&security=reality&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=#BR_154.205.156.52
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@147.45.51.160:443/?type=tcp&encryption=none&flow=&sni=api.company-target.com&fp=chrome&security=reality&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=#LTA_147.45.51.160
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@160.187.111.222:443/?type=tcp&encryption=none&flow=&sni=images-na.ssl-images-amazon.com&fp=chrome&security=reality&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=#AUS_160.187.111.222
-vless://5c183802-747d-4d2f-a6f1-aff2d5d78401@8.210.110.21:443/?type=tcp&encryption=none&flow=&sni=prod.adobeccstatic.com&fp=chrome&security=reality&pbk=DNdTBHyz...&sid=6ba85179e30d4fc2#UAE_8.210.110.21
-vless://5c183802-747d-4d2f-a6f1-aff2d5d78401@8.210.199.129:443/?type=tcp&encryption=none&flow=&sni=wcs.adobe.com&fp=chrome&security=reality&pbk=DNdTBHyz...&sid=6ba85179e30d4fc2#IS_8.210.199.129
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@171.22.16.161:443/?type=tcp&encryption=none&flow=&sni=www.starwars.com&fp=chrome&security=reality&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=#CH_171.22.16.161
-
-#俩百兆
-ss://YWVzLTI1Ni1nY206NDk3ODQ1ZTE2ZTM4@sing01v1.ling8vote004.com:443?plugin=v2ray-plugin%3Btls%3Bpath%3D%2Fmzvhmqgtst%3Bhost%3Dsing01v1.ling8vote004.com#%E7%99%BE%E5%85%86%C2%B7%E6%96%B0%E6%9C%8D%E4%B8%93%E7%BA%BFv1
-ss://YWVzLTI1Ni1nY206NWVkZjkxZjhjMjk1@jpz001v1.ling8vote004.com:443?plugin=v2ray-plugin%3Btls%3Bpath%3D%2Fadqntvqikbhy%3Bhost%3Djpz001v1.ling8vote004.com#%E7%99%BE%E5%85%86%C2%B7%E6%9F%AC%E6%9C%8D%E4%B8%93%E7%BA%BFv1
-
-
-
-#supervpn
-vless://YXV0bzpkNjVjYzE0Yy1mNTNmLTRmZTItYjI2Mi05Nzg1NjYwMTMxOWNAODcuMjI5LjEwOC4xNjc6NTQ0Mw?remarks=Netherlands//////supervpn%E6%8F%90%E5%8F%96&tls=1&peer=yandex.com&xtls=2&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a
-vless://YXV0bzpkNjVjYzE0Yy1mNTNmLTRmZTItYjI2Mi05Nzg1NjYwMTMxOWNAODcuMjI5Ljk3LjEwMzo1NDQz?remarks=Germany////supervpn%E6%8F%90%E5%8F%96&tls=1&peer=yandex.com&xtls=2&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a
-
-
-
-#小火箭vpn
-vmess://YXV0bzo2MjkyMDNiOC03YWYzLTRiNDctOWJiMS02NzI4YWVjYWExZjlAODIuMTgwLjEzMC4xMTM6MTAwODY?remarks=%F0%9F%87%BA%F0%9F%87%B8%20US-VMess-TCP%E5%B0%8F%E7%81%AB%E7%AE%ADvpn&alterId=0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3cjNJTEo3MHpPRXRDdEtvb3pWWXpRPT1AODIuMTgwLjEzMC4xMTM6MTAwODk#%F0%9F%87%AF%F0%9F%87%B5%20JP-Shadowsocks%E5%B0%8F%E7%81%AB%E7%AE%ADvpn
-vmess://YXV0bzo0NTE2MTMyYS1hMDQ2LTQ1MDUtYTkwYS1mMTUzNzM2MzMzMGZAODIuMTgwLjEzMC4xMTM6MTAwODc?path=/vmess2&remarks=%F0%9F%87%AC%F0%9F%87%A7%20UK-VMess-WS%E5%B0%8F%E7%81%AB%E7%AE%ADvpn&obfs=websocket&alterId=0
-
-
-
-
-
-#supervpn提取
-trojan://@fine-pheasant.cougar315.yachts:443?allowInsecure=1#Sydney Pro 1
-trojan://@unbiased-satyr.cougar315.yachts:443?allowInsecure=1#Miami Pro 2
-trojan://@massive-coyote.cougar315.yachts:443?allowInsecure=1#Tokyo Pro 1
-trojan://@relaxed-ray.cougar315.yachts:443?allowInsecure=1#Ashburn Pro 1
-trojan://@popular-herring.cougar315.yachts:443?allowInsecure=1#Singapore Pro 4
-trojan://@cool-buck.cougar315.yachts:443?allowInsecure=1#Singapore Pro 2
-trojan://@rich-gnu.cougar315.yachts:443?allowInsecure=1#Singapore Pro 5
-trojan://@settled-crawdad.cougar315.yachts:443?allowInsecure=1#London 6
-trojan://@verified-crayfish.cougar315.yachts:443?allowInsecure=1#Frankfurt Pro 11
-trojan://@glowing-monkfish.cougar315.yachts:443?allowInsecure=1#Chicago 3
-trojan://@sweeping-satyr.cougar315.yachts:443?allowInsecure=1#Frankfurt 13
-trojan://@clear-hawk.cougar315.yachts:443?allowInsecure=1#Riyadh Pro 1
-trojan://@mature-lemming.cougar315.yachts:443?allowInsecure=1#Frankfurt Pro 12
-trojan://@saved-ghoul.cougar315.yachts:443?allowInsecure=1#Sydney 4
-trojan://@glad-lioness.cougar315.yachts:443?allowInsecure=1#Karachi Pro 2
-trojan://@concise-beagle.cougar315.yachts:443?allowInsecure=1#London 5
-trojan://@merry-drum.cougar315.yachts:443?allowInsecure=1#Seoul Pro 1
-trojan://@mature-lemming.cougar315.yachts:443?allowInsecure=1#Frankfurt 12
-trojan://@glad-caribou.cougar315.yachts:443?allowInsecure=1#Warsaw 2
-trojan://@massive-coyote.cougar315.yachts:443?allowInsecure=1#Tokyo 1
-trojan://@guided-gecko.cougar315.yachts:443?allowInsecure=1#Frankfurt 4
-trojan://@glad-caribou.cougar315.yachts:443?allowInsecure=1#Warsaw Pro 2
-trojan://@ace-catfish.cougar315.yachts:443?allowInsecure=1#Fujairah Pro 1
-trojan://@diverse-stud.cougar315.yachts:443?allowInsecure=1#Sydney Pro 3
-trojan://@obliging-bug.cougar315.yachts:443?allowInsecure=1#Manila Pro 1
-trojan://@settled-crawdad.cougar315.yachts:443?allowInsecure=1#London Pro 6
-trojan://@real-monitor.cougar315.yachts:443?allowInsecure=1#Barcelona Pro 1
-trojan://@glad-serval.cougar315.yachts:443?allowInsecure=1#Helsinki 6
-trojan://@flexible-weevil.cougar315.yachts:443?allowInsecure=1#Chicago Pro 6
-trojan://@main-gobbler.cougar315.yachts:443?allowInsecure=1#Kathmandu Pro 1
-trojan://@diverse-stud.cougar315.yachts:443?allowInsecure=1#Sydney 3
-trojan://@verified-crayfish.cougar315.yachts:443?allowInsecure=1#Frankfurt 11
-trojan://@major-insect.cougar315.yachts:443?allowInsecure=1#Florence Pro 1
-trojan://@pet-mako.cougar315.yachts:443?allowInsecure=1#Moscow Pro 3
-trojan://@concise-beagle.cougar315.yachts:443?allowInsecure=1#London Pro 5
-trojan://@humane-oryx.cougar315.yachts:443?allowInsecure=1#Montreal Pro 1
-trojan://@saved-ghoul.cougar315.yachts:443?allowInsecure=1#Sydney Pro 4
-trojan://@clever-mosquito.cougar315.yachts:443?allowInsecure=1#Bangkok Pro 1
-trojan://@flowing-glowworm.cougar315.yachts:443?allowInsecure=1#Mumbai Pro 1
-trojan://@witty-hyena.cougar315.yachts:443?allowInsecure=1#Manama Pro 1
-trojan://@relaxed-ray.cougar315.yachts:443?allowInsecure=1#Ashburn 1
-trojan://@still-koi.cougar315.yachts:443?allowInsecure=1#Singapore Pro 6
-trojan://@quiet-wildcat.cougar315.yachts:443?allowInsecure=1#Sydney Pro 2
-trojan://@still-koi.cougar315.yachts:443?allowInsecure=1#Singapore 6
-trojan://@star-crayfish.cougar315.yachts:443?allowInsecure=1#Chicago Pro 5
-trojan://@glad-serval.cougar315.yachts:443?allowInsecure=1#Helsinki Pro 6
-trojan://@guided-gecko.cougar315.yachts:443?allowInsecure=1#Frankfurt Pro 4
-trojan://@sweeping-satyr.cougar315.yachts:443?allowInsecure=1#Frankfurt Pro 13
-trojan://@glowing-monkfish.cougar315.yachts:443?allowInsecure=1#Chicago Pro 3
-
-
-
-
-#霹雳鲨///？？？
-vmess://YXV0bzowOWY4ZmQ5Ny00MmVjLTRkZTctYTgyYy01ZjAzNjY2YTY0ZDJAMzYuMTMzLjczLjE1NjoxMDAwMg?path=/&remarks=%E9%A6%99%E6%B8%AF2-0cwbxxjt&alterId=0
-vmess://YXV0bzozYWVjZTE5ZC1jNDg3LTRiZTUtOTMyNS1jOTEyZTMxNzhlYTZAMzYuMTMzLjczLjE1NjoxMDAwMQ?path=/&remarks=%E9%A6%99%E6%B8%AF1-n0lgsss0&alterId=0
-vmess://YXV0bzo1YjljOTMzMy04ZTYzLTRkMWItYTUzYy00MjEwNGQ3MDdiNmNAMzYuMTMzLjczLjE1NjoxMDAwNQ?path=/&remarks=%E9%A6%99%E6%B8%AF5-we50ogsl&alterId=0
-vmess://YXV0bzoyM2NmODhiMC1kNDIwLTQxZTgtOGRhYy1hMzJiMGRiMWE1ZDJAMzYuMTMzLjczLjE1NjoxMDAwNA?path=/&remarks=%E9%A6%99%E6%B8%AF4-16z9sfmn&alterId=0
-vmess://YXV0bzo4YWJkMzM4OS1hMzhhLTRiNDktYTQxYS01NjcyMWM4YjA1NjBAMzYuMTMzLjczLjE1NjoxMDAwMw?path=/&remarks=%E9%A6%99%E6%B8%AF3-vrw5uer1&alterId=0
-vmess://YXV0bzpkZTMyNzUyYy0wNjYxLTQ2N2UtODJkMy0zNWJjNzQwYTc4N2ZAMzYuMTMzLjczLjM2OjExODE5?remarks=A&alterId=0
-
-
-
-#hyany
-socks://cHJvJTNBdTIwMjU4ODc6Mzc1YThlZjgtZWQyZi00YWJjLThkYTItYmZhZDg5ZjIwZDE1QHQtdWMyMjItMTAwNjcuY2ktbGFiLmNvbTo4MA==?remarks=%E9%A6%99%E6%B8%AF%E9%AB%98%E9%80%9F%E4%B8%93%E7%BA%BF1%5B4K%5D&gost=eyJwYXRoIjoiXC9nb3N0IiwiaG9zdCI6InQtdWMyMjItMTAwNjcuY2ktbGFiLmNvbSIsInJvdXRlIjoid3MifQ==
-socks://cHJvJTNBdTIwMjU4ODc6Mzc1YThlZjgtZWQyZi00YWJjLThkYTItYmZhZDg5ZjIwZDE1QHQtdWMyMjItMTAwNjguY2ktbGFiLmNvbTo4MA==?remarks=%E9%A6%99%E6%B8%AF%E9%AB%98%E9%80%9F%E4%B8%93%E7%BA%BF2%5B4K%5D&gost=eyJwYXRoIjoiXC9nb3N0IiwiaG9zdCI6InQtdWMyMjItMTAwNjguY2ktbGFiLmNvbSIsInJvdXRlIjoid3MifQ==
-socks://cHJvJTNBdTIwMjU4ODc6Mzc1YThlZjgtZWQyZi00YWJjLThkYTItYmZhZDg5ZjIwZDE1QHQtdWMyMjItMTAwNjkuY2ktbGFiLmNvbTo4MA==?remarks=%E9%A6%99%E6%B8%AF%E9%AB%98%E9%80%9F%E4%B8%93%E7%BA%BF3%5B%E6%8E%A8%E8%8D%90%5D&gost=eyJwYXRoIjoiXC9nb3N0IiwiaG9zdCI6InQtdWMyMjItMTAwNjkuY2ktbGFiLmNvbSIsInJvdXRlIjoid3MifQ==
-socks://cHJvJTNBdTIwMjU4ODc6Mzc1YThlZjgtZWQyZi00YWJjLThkYTItYmZhZDg5ZjIwZDE1QHQtaGtibjc1LTEwMDEuY2ktbGFiLmNvbTo4MA==?remarks=%E9%A6%99%E6%B8%AF%E9%AB%98%E9%80%9F%E4%B8%93%E7%BA%BF4%5B%E6%8E%A8%E8%8D%90%5D&gost=eyJwYXRoIjoiXC9nb3N0IiwiaG9zdCI6InQtaGtibjc1LTEwMDEuY2ktbGFiLmNvbSIsInJvdXRlIjoid3MifQ==
-socks://cHJvJTNBdTIwMjU4ODc6Mzc1YThlZjgtZWQyZi00YWJjLThkYTItYmZhZDg5ZjIwZDE1QHQtaGtibjc1LTEwMDIuY2ktbGFiLmNvbTo4MA==?remarks=%E9%A6%99%E6%B8%AF%E9%AB%98%E9%80%9F%E4%B8%93%E7%BA%BF5%5B%E6%8E%A8%E8%8D%90%5D&gost=eyJwYXRoIjoiXC9nb3N0IiwiaG9zdCI6InQtaGtibjc1LTEwMDIuY2ktbGFiLmNvbSIsInJvdXRlIjoid3MifQ==
-socks://cHJvJTNBdTIwMjU4ODc6Mzc1YThlZjgtZWQyZi00YWJjLThkYTItYmZhZDg5ZjIwZDE1QHQtaGtibjc1LTEwMDAuY2ktbGFiLmNvbTo4MA==?remarks=%E9%A6%99%E6%B8%AF%E4%B8%93%E7%BA%BF6%5BChatGPT%5D&gost=eyJwYXRoIjoiXC9nb3N0IiwiaG9zdCI6InQtaGtibjc1LTEwMDAuY2ktbGFiLmNvbSIsInJvdXRlIjoid3MifQ==
-socks://cHJvJTNBdTIwMjU4ODc6Mzc1YThlZjgtZWQyZi00YWJjLThkYTItYmZhZDg5ZjIwZDE1QHQtaGtibjc1LTEwMDMuY2ktbGFiLmNvbTo4MA==?remarks=%E6%97%A5%E6%9C%AC+-+%E4%B8%9C%E4%BA%AC1&gost=eyJwYXRoIjoiXC9nb3N0IiwiaG9zdCI6InQtaGtibjc1LTEwMDMuY2ktbGFiLmNvbSIsInJvdXRlIjoid3MifQ==
+vless://YXV0bzo1YzE4MzgwMi03NDdkLTRkMmYtYTZmMS1hZmYyZDVkNzg0MDFAOC4yMDkuNzYuMjA4OjQ0Mw?remarks=GER&tls=1&peer=github.githubassets.com&pbk=DNdTBHyztOVJOBJQX91YXEhNkWbSAntqUoTFBHc6Clw&sid=6ba85179e30d4fc2
+vless://YXV0bzo1YzE4MzgwMi03NDdkLTRkMmYtYTZmMS1hZmYyZDVkNzg0MDFANDcuMjQ1LjEwMS4yMzo0NDM?remarks=SG&tls=1&peer=api.digital-help-prd.autodesk.com&pbk=DNdTBHyztOVJOBJQX91YXEhNkWbSAntqUoTFBHc6Clw&sid=6ba85179e30d4fc2
+vless://YXV0bzo1YzE4MzgwMi03NDdkLTRkMmYtYTZmMS1hZmYyZDVkNzg0MDFAOC4yMTguODkuMTMyOjQ0Mw?remarks=HK&tls=1&peer=api.digital-help-prd.autodesk.com&pbk=DNdTBHyztOVJOBJQX91YXEhNkWbSAntqUoTFBHc6Clw&sid=6ba85179e30d4fc2
+vless://YXV0bzozZTdmNjdkZS02NDhlLTQ4NzEtYjUxYS1hMjI1MjE0ZDQxZWVANDcuMjU0LjIwNy4xMjc6NDQz?remarks=MYS_47.254.207.127&tls=1&peer=cdn.userway.org&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=7266e6
+vless://YXV0bzozZTdmNjdkZS02NDhlLTQ4NzEtYjUxYS1hMjI1MjE0ZDQxZWVAMzguMTgwLjI0My4zNzo0NDM?remarks=USA_38.180.243.37&tls=1&peer=www.starwars.com&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw
+vless://YXV0bzozZTdmNjdkZS02NDhlLTQ4NzEtYjUxYS1hMjI1MjE0ZDQxZWVAMTU0LjIwNS4xNTYuNTI6NDQz?remarks=BR_154.205.156.52&tls=1&peer=github.githubassets.com&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw
+ss://YWVzLTI1Ni1nY206NDk3ODQ1ZTE2ZTM4QHNpbmcwMXYxLmxpbmc4dm90ZTAwNC5jb206NDQz?v2ray-plugin=eyJwYXRoIjoiXC9tenZobXFndHN0IiwiaG9zdCI6InNpbmcwMXYxLmxpbmc4dm90ZTAwNC5jb20iLCJtb2RlIjoid2Vic29ja2V0IiwidGxzIjp0cnVlfQ#%E7%99%BE%E5%85%86%C2%B7%E6%96%B0%E6%9C%8D%E4%B8%93%E7%BA%BFv1
+ss://YWVzLTI1Ni1nY206NWVkZjkxZjhjMjk1QGpwejAwMXYxLmxpbmc4dm90ZTAwNC5jb206NDQz?v2ray-plugin=eyJwYXRoIjoiXC9hZHFudHZxaWtiaHkiLCJob3N0IjoianB6MDAxdjEubGluZzh2b3RlMDA0LmNvbSIsIm1vZGUiOiJ3ZWJzb2NrZXQiLCJ0bHMiOnRydWV9#%E7%99%BE%E5%85%86%C2%B7%E6%9F%AC%E6%9C%8D%E4%B8%93%E7%BA%BFv1
+trojan://@fine-pheasant.cougar315.yachts:443?allowInsecure=1#Sydney%20Pro%201
+trojan://@massive-coyote.cougar315.yachts:443?allowInsecure=1#Tokyo%20Pro%201
+trojan://@relaxed-ray.cougar315.yachts:443?allowInsecure=1#Ashburn%20Pro%201
+trojan://@rich-gnu.cougar315.yachts:443?allowInsecure=1#Singapore%20Pro%205
+trojan://@settled-crawdad.cougar315.yachts:443?allowInsecure=1#London%206
+trojan://@verified-crayfish.cougar315.yachts:443?allowInsecure=1#Frankfurt%20Pro%2011
+trojan://@sweeping-satyr.cougar315.yachts:443?allowInsecure=1#Frankfurt%2013
+trojan://@mature-lemming.cougar315.yachts:443?allowInsecure=1#Frankfurt%20Pro%2012
+trojan://@saved-ghoul.cougar315.yachts:443?allowInsecure=1#Sydney%204
+trojan://@concise-beagle.cougar315.yachts:443?allowInsecure=1#London%205
+trojan://@mature-lemming.cougar315.yachts:443?allowInsecure=1#Frankfurt%2012
+trojan://@glad-caribou.cougar315.yachts:443?allowInsecure=1#Warsaw%202
+trojan://@massive-coyote.cougar315.yachts:443?allowInsecure=1#Tokyo%201
+trojan://@guided-gecko.cougar315.yachts:443?allowInsecure=1#Frankfurt%204
+trojan://@glad-caribou.cougar315.yachts:443?allowInsecure=1#Warsaw%20Pro%202
+trojan://@diverse-stud.cougar315.yachts:443?allowInsecure=1#Sydney%20Pro%203
+trojan://@real-monitor.cougar315.yachts:443?allowInsecure=1#Barcelona%20Pro%201
+trojan://@diverse-stud.cougar315.yachts:443?allowInsecure=1#Sydney%203
+trojan://@verified-crayfish.cougar315.yachts:443?allowInsecure=1#Frankfurt%2011
+trojan://@major-insect.cougar315.yachts:443?allowInsecure=1#Florence%20Pro%201
+trojan://@concise-beagle.cougar315.yachts:443?allowInsecure=1#London%20Pro%205
+trojan://@still-koi.cougar315.yachts:443?allowInsecure=1#Singapore%20Pro%206
+trojan://@glad-serval.cougar315.yachts:443?allowInsecure=1#Helsinki%20Pro%206
+trojan://@sweeping-satyr.cougar315.yachts:443?allowInsecure=1#Frankfurt%20Pro%2013
+socks://cHJvJTNBdTIwMjU4ODc6Mzc1YThlZjgtZWQyZi00YWJjLThkYTItYmZhZDg5ZjIwZDE1QHQtdWMyMjItMTAwNjcuY2ktbGFiLmNvbTo4MA?remarks=%E9%A6%99%E6%B8%AF%E9%AB%98%E9%80%9F%E4%B8%93%E7%BA%BF1%5B4K%5D&gost=eyJwYXRoIjoiXC9nb3N0IiwiaG9zdCI6InQtdWMyMjItMTAwNjcuY2ktbGFiLmNvbSIsInJvdXRlIjoid3MifQ
+socks://cHJvJTNBdTIwMjU4ODc6Mzc1YThlZjgtZWQyZi00YWJjLThkYTItYmZhZDg5ZjIwZDE1QHQtdWMyMjItMTAwNjguY2ktbGFiLmNvbTo4MA?remarks=%E9%A6%99%E6%B8%AF%E9%AB%98%E9%80%9F%E4%B8%93%E7%BA%BF2%5B4K%5D&gost=eyJwYXRoIjoiXC9nb3N0IiwiaG9zdCI6InQtdWMyMjItMTAwNjguY2ktbGFiLmNvbSIsInJvdXRlIjoid3MifQ
+socks://cHJvJTNBdTIwMjU4ODc6Mzc1YThlZjgtZWQyZi00YWJjLThkYTItYmZhZDg5ZjIwZDE1QHQtdWMyMjItMTAwNjkuY2ktbGFiLmNvbTo4MA?remarks=%E9%A6%99%E6%B8%AF%E9%AB%98%E9%80%9F%E4%B8%93%E7%BA%BF3%5B%E6%8E%A8%E8%8D%90%5D&gost=eyJwYXRoIjoiXC9nb3N0IiwiaG9zdCI6InQtdWMyMjItMTAwNjkuY2ktbGFiLmNvbSIsInJvdXRlIjoid3MifQ
+socks://cHJvJTNBdTIwMjU4ODc6Mzc1YThlZjgtZWQyZi00YWJjLThkYTItYmZhZDg5ZjIwZDE1QHQtaGtibjc1LTEwMDEuY2ktbGFiLmNvbTo4MA?remarks=%E9%A6%99%E6%B8%AF%E9%AB%98%E9%80%9F%E4%B8%93%E7%BA%BF4%5B%E6%8E%A8%E8%8D%90%5D&gost=eyJwYXRoIjoiXC9nb3N0IiwiaG9zdCI6InQtaGtibjc1LTEwMDEuY2ktbGFiLmNvbSIsInJvdXRlIjoid3MifQ
+socks://cHJvJTNBdTIwMjU4ODc6Mzc1YThlZjgtZWQyZi00YWJjLThkYTItYmZhZDg5ZjIwZDE1QHQtaGtibjc1LTEwMDIuY2ktbGFiLmNvbTo4MA?remarks=%E9%A6%99%E6%B8%AF%E9%AB%98%E9%80%9F%E4%B8%93%E7%BA%BF5%5B%E6%8E%A8%E8%8D%90%5D&gost=eyJwYXRoIjoiXC9nb3N0IiwiaG9zdCI6InQtaGtibjc1LTEwMDIuY2ktbGFiLmNvbSIsInJvdXRlIjoid3MifQ
+socks://cHJvJTNBdTIwMjU4ODc6Mzc1YThlZjgtZWQyZi00YWJjLThkYTItYmZhZDg5ZjIwZDE1QHQtaGtibjc1LTEwMDAuY2ktbGFiLmNvbTo4MA?remarks=%E9%A6%99%E6%B8%AF%E4%B8%93%E7%BA%BF6%5BChatGPT%5D&gost=eyJwYXRoIjoiXC9nb3N0IiwiaG9zdCI6InQtaGtibjc1LTEwMDAuY2ktbGFiLmNvbSIsInJvdXRlIjoid3MifQ
+socks://cHJvJTNBdTIwMjU4ODc6Mzc1YThlZjgtZWQyZi00YWJjLThkYTItYmZhZDg5ZjIwZDE1QHQtaGtibjc1LTEwMDMuY2ktbGFiLmNvbTo4MA?remarks=%E6%97%A5%E6%9C%AC+-+%E4%B8%9C%E4%BA%AC1&gost=eyJwYXRoIjoiXC9nb3N0IiwiaG9zdCI6InQtaGtibjc1LTEwMDMuY2ktbGFiLmNvbSIsInJvdXRlIjoid3MifQ
 socks://cHJvJTNBdTIwMjU4ODc6Mzc1YThlZjgtZWQyZi00YWJjLThkYTItYmZhZDg5ZjIwZDE1QHQtdHgxMDQtMTAwNC5jaS1sYWIuY29tOjgw?remarks=%E6%97%A5%E6%9C%AC+-+%E4%B8%9C%E4%BA%AC2&gost=eyJwYXRoIjoiXC9nb3N0IiwiaG9zdCI6InQtdHgxMDQtMTAwNC5jaS1sYWIuY29tIiwicm91dGUiOiJ3cyJ9
 socks://cHJvJTNBdTIwMjU4ODc6Mzc1YThlZjgtZWQyZi00YWJjLThkYTItYmZhZDg5ZjIwZDE1QHQtdHgxMDQtMTAwNi5jaS1sYWIuY29tOjgw?remarks=%E5%8F%B0%E6%B9%BE+-+%E5%BD%B0%E5%8C%96%5BChatGPT%5D&gost=eyJwYXRoIjoiXC9nb3N0IiwiaG9zdCI6InQtdHgxMDQtMTAwNi5jaS1sYWIuY29tIiwicm91dGUiOiJ3cyJ9
 socks://cHJvJTNBdTIwMjU4ODc6Mzc1YThlZjgtZWQyZi00YWJjLThkYTItYmZhZDg5ZjIwZDE1QHQtdHgxMDQtMTAwOC5jaS1sYWIuY29tOjgw?remarks=%E5%8F%B0%E6%B9%BE+-+%E5%8F%B0%E5%8C%97%5BChatGPT%5D&gost=eyJwYXRoIjoiXC9nb3N0IiwiaG9zdCI6InQtdHgxMDQtMTAwOC5jaS1sYWIuY29tIiwicm91dGUiOiJ3cyJ9
-socks://cHJvJTNBdTIwMjU4ODc6Mzc1YThlZjgtZWQyZi00YWJjLThkYTItYmZhZDg5ZjIwZDE1QHQtaGtibjc1LTEwMDcuY2ktbGFiLmNvbTo4MA==?remarks=%E5%8F%B0%E6%B9%BE+-+%E6%96%B0%E5%8C%97%5BChatGPT%5D&gost=eyJwYXRoIjoiXC9nb3N0IiwiaG9zdCI6InQtaGtibjc1LTEwMDcuY2ktbGFiLmNvbSIsInJvdXRlIjoid3MifQ==
+socks://cHJvJTNBdTIwMjU4ODc6Mzc1YThlZjgtZWQyZi00YWJjLThkYTItYmZhZDg5ZjIwZDE1QHQtaGtibjc1LTEwMDcuY2ktbGFiLmNvbTo4MA?remarks=%E5%8F%B0%E6%B9%BE+-+%E6%96%B0%E5%8C%97%5BChatGPT%5D&gost=eyJwYXRoIjoiXC9nb3N0IiwiaG9zdCI6InQtaGtibjc1LTEwMDcuY2ktbGFiLmNvbSIsInJvdXRlIjoid3MifQ
 socks://cHJvJTNBdTIwMjU4ODc6Mzc1YThlZjgtZWQyZi00YWJjLThkYTItYmZhZDg5ZjIwZDE1QHQtdHgxMDQtMTAwNS5jaS1sYWIuY29tOjgw?remarks=%E6%96%B0%E5%8A%A0%E5%9D%A1&gost=eyJwYXRoIjoiXC9nb3N0IiwiaG9zdCI6InQtdHgxMDQtMTAwNS5jaS1sYWIuY29tIiwicm91dGUiOiJ3cyJ9
 socks://cHJvJTNBdTIwMjU4ODc6Mzc1YThlZjgtZWQyZi00YWJjLThkYTItYmZhZDg5ZjIwZDE1QHQtdHgxMDQtMTAwOS5jaS1sYWIuY29tOjgw?remarks=%E9%9F%A9%E5%9B%BD+-+%E9%A6%96%E5%B0%941&gost=eyJwYXRoIjoiXC9nb3N0IiwiaG9zdCI6InQtdHgxMDQtMTAwOS5jaS1sYWIuY29tIiwicm91dGUiOiJ3cyJ9
 socks://cHJvJTNBdTIwMjU4ODc6Mzc1YThlZjgtZWQyZi00YWJjLThkYTItYmZhZDg5ZjIwZDE1QHQtdHgxMDQtMTAxMC5jaS1sYWIuY29tOjgw?remarks=%E9%9F%A9%E5%9B%BD+-+%E9%A6%96%E5%B0%942&gost=eyJwYXRoIjoiXC9nb3N0IiwiaG9zdCI6InQtdHgxMDQtMTAxMC5jaS1sYWIuY29tIiwicm91dGUiOiJ3cyJ9
@@ -166,65 +89,20 @@ socks://cHJvJTNBdTIwMjU4ODc6Mzc1YThlZjgtZWQyZi00YWJjLThkYTItYmZhZDg5ZjIwZDE1QHQt
 socks://cHJvJTNBdTIwMjU4ODc6Mzc1YThlZjgtZWQyZi00YWJjLThkYTItYmZhZDg5ZjIwZDE1QHQtdHgxNDUtMTA1MS5jaS1sYWIuY29tOjgw?remarks=%E7%AA%81%E5%B0%BC%E6%96%AF&gost=eyJwYXRoIjoiXC9nb3N0IiwiaG9zdCI6InQtdHgxNDUtMTA1MS5jaS1sYWIuY29tIiwicm91dGUiOiJ3cyJ9
 socks://cHJvJTNBdTIwMjU4ODc6Mzc1YThlZjgtZWQyZi00YWJjLThkYTItYmZhZDg5ZjIwZDE1QHQtdHgxNDUtMTA1MC5jaS1sYWIuY29tOjgw?remarks=%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9A+-+%E6%8B%89%E5%90%84%E6%96%AF&gost=eyJwYXRoIjoiXC9nb3N0IiwiaG9zdCI6InQtdHgxNDUtMTA1MC5jaS1sYWIuY29tIiwicm91dGUiOiJ3cyJ9
 socks://cHJvJTNBdTIwMjU4ODc6Mzc1YThlZjgtZWQyZi00YWJjLThkYTItYmZhZDg5ZjIwZDE1QDM4LjU0Ljg1LjU0Ojgw?remarks=Wakanda&gost=eyJwYXRoIjoiXC9nb3N0IiwiaG9zdCI6IjM4LjU0Ljg1LjU0Iiwicm91dGUiOiJ3cyJ9
-
-
-trojan://4leIRx3DpEuCCxIFT7KFuSRZy3g2CeF3cpeOxyzgCDO30yjS4YyACjNlOaYaaXn89na83@sohtsa.missionsec.us:28333#%F0%9F%87%A8%F0%9F%87%B3%20Taiwan
 trojan://RDR0TcCS6e3ZB8XaCq3O2OEFOYzZaIy63nx5ZXBDSuASSwEYqee7K5AlKDSZ3C4CSlua3@barater.appagent.net:28334#%F0%9F%87%BA%F0%9F%87%B8%20United%20States
 trojan://7YRNZC3T0SI5YFaRu63A3D3qylTx2wCnCe56DzDw9KEXSDINxZADOzSYOROcay8aXa43x@cutting.appagent.net:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-trojan://D0AASSpCKFjOBSwlwqylnOep8BDlgN3e3RY9S3Op2RaZZ58gID8yY3ej56CSuYacZz3EA@delight.appagent.net:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-trojan://nzSaSa3SFaCNFDCjOCg8A39e53p8l2xaTFCOu7qZx2Z8px4CK3DXeZYAwRRS3zY66laOE@seginus.appagent.net:28331#%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-trojan://eYaw9xlNDu4695IF3CyY2leZOTnY8ZSOD3Xa3DClz0xqZy7Z3eaBFaTKOSwCSAOyEap4D@connect.appagent.net:28333#%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-trojan://OaFFcTDe9pSlez6x3SY8AARXwClzCRRDwSN8F3OqZAEYC0SE6F8gp3wCTCSTDYllcNceagCDD2C59S3@bolster.appagent.net:28332#%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-trojan://0C3YaEDx46ODTFTcaF8lXlZ3zeqSlF33wZagexzRjIyODa8RDwp8XSCO93ygCSYcSYABA@blength.appagent.net:18332#%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-trojan://B3AO9XlcTxaIATp08S29pS6luwZ8C4qDFzaCFYEDDSA5YDeKZAy3e2ZXRe73zIpxwByN7@kasheet.appagent.net:18333#%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-trojan://ZYCORCAKISClBzZB2exOIC0cKAOZ4l98375aewpND0FpaeDwOXa8333ESc8YnFj23Xyyx@kahorse.appagent.net:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States
 trojan://CZC2eFReAwaON4nzF3zY7XC9nB3IqIaT3Eaa8S7D3B5Y3XuSEp8Z0ygl08S3SSxy6wDRC@blender.appagent.net:28332#%F0%9F%87%BA%F0%9F%87%B8%20United%20States
 trojan://A83yaxx9xODY33D752euDFgagCB6SzZ3Zj3nRYSlDpATzCqCOu34xKaIcN4CR5SOE9y88@closet.isquirrel.net:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-trojan://IlEAxD6a9y33jB8a3CxO3aYy6n8yq3Ke4ISEzBDYa0lS3aDDg6DOe8YZC38Ila2BYlqxxSlSS0uq3CD@curtain.isquirrel.net:28332#%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-trojan://4xS33pu88RaTF37ZxRjzAZc9zxe8OaYBX9CSO3p5SSxquFOFEySnDlCleCFA2DN3gaeDl@mintaka.appagent.net:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-trojan://3ZFDxASRw0XIcKYFlp4RSCeSwA8ap7lEAzZB7uNnO38yDYOzDe3p23CxF0OlTx6YSK3j3@toaster.isquirrel.net:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-trojan://FSCYl733lF3a2ZDCRTpZDEDxDn3g4jTSZp3AS6AES9leDcaeOu6pCZ2KCSIB0OaFNxe9q@soldier.isquirrel.net:18332#%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-trojan://Npgx9nO3OBaZF5yxARYl93lFX08TlR3waDla733az8SqXe3YS3zjESECSZpAw428a6SID@metallic.isquirrel.net:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-trojan://RzFSy3laClaxnYCcO3jBEpYgDyZx2CO78IC3X46ATFD73RSSZZTx8yCOKYDOqeD8pSeRa@sirens.isquirrel.net:28334#%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-trojan://F9OKESxKjSDExSeaOw7XyINxDzaOZqeKxCeIczYYED8ewZ2Yl9AppAySO3XwFNy3lCaXDDCFnlACSB0@pricey.appagent.net:28334#%F0%9F%87%BA%F0%9F%87%B8%20United%20States
 trojan://5S8YSYY7zDZ8RcqeD0A3pA32pg9j0ZwIFyK5Bnxua34gYXC33l3AywaaZSSaNp6lOelCD@remote.isquirrel.net:28332#%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-trojan://Z3aK0aZqwyNcz7S3l3ncNCODYxNFnA8SCOOSOZ3y3AX8xA4a0RZ3gxn39aqYAaBOyzR43acKOCzSX3S@hanger.appagent.net:28331#%F0%9F%87%BA%F0%9F%87%B8%20United%20States
-trojan://3Ta3DR6FjZSRypyYSRzTaB6Z4279x3Au4aD8DXceYp3lFqCnIDl8SpD9n0lOZSF2SgCcC@morlin.missionsec.us:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore
-trojan://SaZa3XKYya0q3SZYDuE3SAC2NpeZgA9n3CA9jRDKz48O6Cg8Dn7Fx63lRITawuDeFRpBj@sevuior.missionsec.us:443#%F0%9F%87%A8%F0%9F%87%B3%20Taiwan
-trojan://BAu7ZSyD3IZppnCOxCzaFXje3SECzZgX83e3x7yZA8SDCacyagKFlEO6O0AlTSwDDe4SF@louber.missionsec.us:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore
-trojan://R3SuZDAZXDO3FYqxwK36l7gpSIBTFCxlzc89a7qg3S9p8BOCeACSFaA8nxeD2ZlT5Nl4O@spevoy.missionsec.us:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore
 trojan://SplABYySyFe9xCj7Dxa8g3a3TKSAZDwgDYZaRuOZ68Y3euxEn33Y0CDeA6l9SRI84xCO4@derrick.missionsec.us:443#%F0%9F%87%AF%F0%9F%87%B5%20Japan
-socks://cHJvJTNBdTIwMjU4ODc6Mzc1YThlZjgtZWQyZi00YWJjLThkYTItYmZhZDg5ZjIwZDE1QHQtdWMyMjItMTAwNjcuY2ktbGFiLmNvbTo4MA==?remarks=%E9%A6%99%E6%B8%AF%E9%AB%98%E9%80%9F%E4%B8%93%E7%BA%BF1%5B4K%5D&gost=eyJwYXRoIjoiXC9nb3N0IiwiaG9zdCI6InQtdWMyMjItMTAwNjcuY2ktbGFiLmNvbSIsInJvdXRlIjoid3MifQ==
-socks://cHJvJTNBdTIwMjU4ODc6Mzc1YThlZjgtZWQyZi00YWJjLThkYTItYmZhZDg5ZjIwZDE1QHQtdWMyMjItMTAwNjguY2ktbGFiLmNvbTo4MA==?remarks=%E9%A6%99%E6%B8%AF%E9%AB%98%E9%80%9F%E4%B8%93%E7%BA%BF2%5B4K%5D&gost=eyJwYXRoIjoiXC9nb3N0IiwiaG9zdCI6InQtdWMyMjItMTAwNjguY2ktbGFiLmNvbSIsInJvdXRlIjoid3MifQ==
-socks://cHJvJTNBdTIwMjU4ODc6Mzc1YThlZjgtZWQyZi00YWJjLThkYTItYmZhZDg5ZjIwZDE1QHQtdWMyMjItMTAwNjkuY2ktbGFiLmNvbTo4MA==?remarks=%E9%A6%99%E6%B8%AF%E9%AB%98%E9%80%9F%E4%B8%93%E7%BA%BF3%5B%E6%8E%A8%E8%8D%90%5D&gost=eyJwYXRoIjoiXC9nb3N0IiwiaG9zdCI6InQtdWMyMjItMTAwNjkuY2ktbGFiLmNvbSIsInJvdXRlIjoid3MifQ==
-socks://cHJvJTNBdTIwMjU4ODc6Mzc1YThlZjgtZWQyZi00YWJjLThkYTItYmZhZDg5ZjIwZDE1QHQtaGtibjc1LTEwMDEuY2ktbGFiLmNvbTo4MA==?remarks=%E9%A6%99%E6%B8%AF%E9%AB%98%E9%80%9F%E4%B8%93%E7%BA%BF4%5B%E6%8E%A8%E8%8D%90%5D&gost=eyJwYXRoIjoiXC9nb3N0IiwiaG9zdCI6InQtaGtibjc1LTEwMDEuY2ktbGFiLmNvbSIsInJvdXRlIjoid3MifQ==
-socks://cHJvJTNBdTIwMjU4ODc6Mzc1YThlZjgtZWQyZi00YWJjLThkYTItYmZhZDg5ZjIwZDE1QHQtaGtibjc1LTEwMDIuY2ktbGFiLmNvbTo4MA==?remarks=%E9%A6%99%E6%B8%AF%E9%AB%98%E9%80%9F%E4%B8%93%E7%BA%BF5%5B%E6%8E%A8%E8%8D%90%5D&gost=eyJwYXRoIjoiXC9nb3N0IiwiaG9zdCI6InQtaGtibjc1LTEwMDIuY2ktbGFiLmNvbSIsInJvdXRlIjoid3MifQ==
-socks://cHJvJTNBdTIwMjU4ODc6Mzc1YThlZjgtZWQyZi00YWJjLThkYTItYmZhZDg5ZjIwZDE1QHQtaGtibjc1LTEwMDAuY2ktbGFiLmNvbTo4MA==?remarks=%E9%A6%99%E6%B8%AF%E4%B8%93%E7%BA%BF6&gost=eyJwYXRoIjoiXC9nb3N0IiwiaG9zdCI6InQtaGtibjc1LTEwMDAuY2ktbGFiLmNvbSIsInJvdXRlIjoid3MifQ==
-socks://cHJvJTNBdTIwMjU4ODc6Mzc1YThlZjgtZWQyZi00YWJjLThkYTItYmZhZDg5ZjIwZDE1QHQtaGtibjc1LTEwMDMuY2ktbGFiLmNvbTo4MA==?remarks=%E6%97%A5%E6%9C%AC+-+%E4%B8%9C%E4%BA%AC1&gost=eyJwYXRoIjoiXC9nb3N0IiwiaG9zdCI6InQtaGtibjc1LTEwMDMuY2ktbGFiLmNvbSIsInJvdXRlIjoid3MifQ==
-socks://cHJvJTNBdTIwMjU4ODc6Mzc1YThlZjgtZWQyZi00YWJjLThkYTItYmZhZDg5ZjIwZDE1QHQtdHgxMDQtMTAwNC5jaS1sYWIuY29tOjgw?remarks=%E6%97%A5%E6%9C%AC+-+%E4%B8%9C%E4%BA%AC2&gost=eyJwYXRoIjoiXC9nb3N0IiwiaG9zdCI6InQtdHgxMDQtMTAwNC5jaS1sYWIuY29tIiwicm91dGUiOiJ3cyJ9
-socks://cHJvJTNBdTIwMjU4ODc6Mzc1YThlZjgtZWQyZi00YWJjLThkYTItYmZhZDg5ZjIwZDE1QHQtdHgxMDQtMTAwNi5jaS1sYWIuY29tOjgw?remarks=%E5%8F%B0%E6%B9%BE+-+%E5%BD%B0%E5%8C%96&gost=eyJwYXRoIjoiXC9nb3N0IiwiaG9zdCI6InQtdHgxMDQtMTAwNi5jaS1sYWIuY29tIiwicm91dGUiOiJ3cyJ9
-socks://cHJvJTNBdTIwMjU4ODc6Mzc1YThlZjgtZWQyZi00YWJjLThkYTItYmZhZDg5ZjIwZDE1QHQtdHgxMDQtMTAwOC5jaS1sYWIuY29tOjgw?remarks=%E5%8F%B0%E6%B9%BE+-+%E5%8F%B0%E5%8C%97&gost=eyJwYXRoIjoiXC9nb3N0IiwiaG9zdCI6InQtdHgxMDQtMTAwOC5jaS1sYWIuY29tIiwicm91dGUiOiJ3cyJ9
-socks://cHJvJTNBdTIwMjU4ODc6Mzc1YThlZjgtZWQyZi00YWJjLThkYTItYmZhZDg5ZjIwZDE1QHQtaGtibjc1LTEwMDcuY2ktbGFiLmNvbTo4MA==?remarks=%E5%8F%B0%E6%B9%BE+-+%E6%96%B0%E5%8C%97&gost=eyJwYXRoIjoiXC9nb3N0IiwiaG9zdCI6InQtaGtibjc1LTEwMDcuY2ktbGFiLmNvbSIsInJvdXRlIjoid3MifQ==
-socks://cHJvJTNBdTIwMjU4ODc6Mzc1YThlZjgtZWQyZi00YWJjLThkYTItYmZhZDg5ZjIwZDE1QHQtdHgxMDQtMTAwNS5jaS1sYWIuY29tOjgw?remarks=%E6%96%B0%E5%8A%A0%E5%9D%A1&gost=eyJwYXRoIjoiXC9nb3N0IiwiaG9zdCI6InQtdHgxMDQtMTAwNS5jaS1sYWIuY29tIiwicm91dGUiOiJ3cyJ9
-socks://cHJvJTNBdTIwMjU4ODc6Mzc1YThlZjgtZWQyZi00YWJjLThkYTItYmZhZDg5ZjIwZDE1QHQtdHgxMDQtMTAwOS5jaS1sYWIuY29tOjgw?remarks=%E9%9F%A9%E5%9B%BD+-+%E9%A6%96%E5%B0%941&gost=eyJwYXRoIjoiXC9nb3N0IiwiaG9zdCI6InQtdHgxMDQtMTAwOS5jaS1sYWIuY29tIiwicm91dGUiOiJ3cyJ9
-socks://cHJvJTNBdTIwMjU4ODc6Mzc1YThlZjgtZWQyZi00YWJjLThkYTItYmZhZDg5ZjIwZDE1QHQtdHgxMDQtMTAxMC5jaS1sYWIuY29tOjgw?remarks=%E9%9F%A9%E5%9B%BD+-+%E9%A6%96%E5%B0%942&gost=eyJwYXRoIjoiXC9nb3N0IiwiaG9zdCI6InQtdHgxMDQtMTAxMC5jaS1sYWIuY29tIiwicm91dGUiOiJ3cyJ9
-socks://cHJvJTNBdTIwMjU4ODc6Mzc1YThlZjgtZWQyZi00YWJjLThkYTItYmZhZDg5ZjIwZDE1QHQtdHgxMDQtMTAxMS5jaS1sYWIuY29tOjgw?remarks=%E6%B3%B0%E5%9B%BD+-+%E6%9B%BC%E8%B0%B7&gost=eyJwYXRoIjoiXC9nb3N0IiwiaG9zdCI6InQtdHgxMDQtMTAxMS5jaS1sYWIuY29tIiwicm91dGUiOiJ3cyJ9
-
-
-#日本中转美国家宽
-vless://YXV0bzphNWMxODY2Yi1jNjJmLTQ2ODQtOWQ4Zi1kNjhiODgxNWM4MTFAdG1kLndleW9sby5jb206NDQz?remarks=%F0%9F%87%AF%F0%9F%87%B5%20%E6%B5%8B%E8%AF%95-%E6%97%A5%E6%9C%AC%E8%BD%AC%E6%B4%9B%E6%9D%89%E7%9F%B65&tls=1&peer=tesla.com&xtls=2&pbk=vNWTKraW-w1e5fUKLJhjDpslQX7OFnRbavF2VHowNhk&sid=cb37b04594
-vless://YXV0bzpiOTY0Y2ZiZS01ZjhhLTQ3YWUtOWYxNC00YTZlMzZiZmVkMmJAdG1kLndleW9sby5jb206NDQz?remarks=%F0%9F%87%AF%F0%9F%87%B5%20%E6%B5%8B%E8%AF%95-%E6%97%A5%E6%9C%AC%E8%BD%AC%E6%B4%9B%E6%9D%89%E7%9F%B61&tls=1&peer=tesla.com&xtls=2&pbk=vNWTKraW-w1e5fUKLJhjDpslQX7OFnRbavF2VHowNhk&sid=cb37b04594
-vless://YXV0bzozNjU4NjMwMC1jZWYyLTRjZDYtYjA2NS1hZDg3Y2U2YWZkNDNAdG1kLndleW9sby5jb206NDQz?remarks=%F0%9F%87%AF%F0%9F%87%B5%20%E6%B5%8B%E8%AF%95-%E6%97%A5%E6%9C%AC%E8%BD%AC%E6%B4%9B%E6%9D%89%E7%9F%B64&tls=1&peer=tesla.com&xtls=2&pbk=vNWTKraW-w1e5fUKLJhjDpslQX7OFnRbavF2VHowNhk&sid=cb37b04594
-vless://YXV0bzplZWJkZTEwNS0zYjg5LTQ5MTYtOTk4Ny0zOGE2NjcyYzVlMjNAdG1kLndleW9sby5jb206NDQz?remarks=%F0%9F%87%AF%F0%9F%87%B5%20%E6%B5%8B%E8%AF%95-%E6%97%A5%E6%9C%AC%E8%BD%AC%E6%B4%9B%E6%9D%89%E7%9F%B62&tls=1&peer=tesla.com&xtls=2&pbk=vNWTKraW-w1e5fUKLJhjDpslQX7OFnRbavF2VHowNhk&sid=cb37b04594
-vless://YXV0bzowN2Y5NGE2Ni03ZDRiLTRmYWEtODYxYS1mNDFiMDUxNmZiNjRAdG1kLndleW9sby5jb206NDQz?remarks=%F0%9F%87%AF%F0%9F%87%B5%20%E6%B5%8B%E8%AF%95-%E6%97%A5%E6%9C%AC%E8%BD%AC%E6%B4%9B%E6%9D%89%E7%9F%B63&tls=1&peer=tesla.com&xtls=2&pbk=vNWTKraW-w1e5fUKLJhjDpslQX7OFnRbavF2VHowNhk&sid=cb37b04594
-vless://YXV0bzozNmY2MWM4OS03YjNmLTQxMDUtOTA4MS02NjZkZTFkNWY2NzVAdG1kLndleW9sby5jb206NDQz?remarks=%F0%9F%87%AF%F0%9F%87%B5%20%E6%B5%8B%E8%AF%95-%E6%97%A5%E6%9C%AC%E8%BD%AC%E6%B4%9B%E6%9D%89%E7%9F%B66&tls=1&peer=tesla.com&xtls=2&pbk=vNWTKraW-w1e5fUKLJhjDpslQX7OFnRbavF2VHowNhk&sid=cb37b04594
-vless://YXV0bzphYzExMmNiNC01MzQ0LTQ5YzUtYjBhZC1hMjA2MmQ3ZDk1YzhAdG1kLndleW9sby5jb206NDQz?remarks=%F0%9F%87%AF%F0%9F%87%B5%20%E6%B5%8B%E8%AF%95-%E6%97%A5%E6%9C%AC%E7%9B%B4%E8%BF%9E&tls=1&peer=tesla.com&xtls=2&pbk=vNWTKraW-w1e5fUKLJhjDpslQX7OFnRbavF2VHowNhk&sid=cb37b04594
-vless://YXV0bzo2NGFiMTUyNS01NDY2LTQ1ZjktODc5Zi00MzZmNGU3YTgxMDZAdG1kLndleW9sby5jb206NDQz?remarks=%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20%E6%B5%8B%E8%AF%95-ATT%E5%AE%B6%E5%AE%BD&tls=1&peer=tesla.com&pbk=vNWTKraW-w1e5fUKLJhjDpslQX7OFnRbavF2VHowNhk&sid=cb37b04594
-
-
-
-
-#cf
+vless://bm9uZTphNWMxODY2Yi1jNjJmLTQ2ODQtOWQ4Zi1kNjhiODgxNWM4MTFAdG1kLndleW9sby5jb206NDQz?remarks=%F0%9F%87%AF%F0%9F%87%B5%20%E6%B5%8B%E8%AF%95-%E6%97%A5%E6%9C%AC%E8%BD%AC%E6%B4%9B%E6%9D%89%E7%9F%B65&tls=1&peer=tesla.com&xtls=2&pbk=vNWTKraW-w1e5fUKLJhjDpslQX7OFnRbavF2VHowNhk&sid=cb37b04594
+vless://bm9uZTpiOTY0Y2ZiZS01ZjhhLTQ3YWUtOWYxNC00YTZlMzZiZmVkMmJAdG1kLndleW9sby5jb206NDQz?remarks=%F0%9F%87%AF%F0%9F%87%B5%20%E6%B5%8B%E8%AF%95-%E6%97%A5%E6%9C%AC%E8%BD%AC%E6%B4%9B%E6%9D%89%E7%9F%B61&tls=1&peer=tesla.com&xtls=2&pbk=vNWTKraW-w1e5fUKLJhjDpslQX7OFnRbavF2VHowNhk&sid=cb37b04594
+vless://bm9uZTozNjU4NjMwMC1jZWYyLTRjZDYtYjA2NS1hZDg3Y2U2YWZkNDNAdG1kLndleW9sby5jb206NDQz?remarks=%F0%9F%87%AF%F0%9F%87%B5%20%E6%B5%8B%E8%AF%95-%E6%97%A5%E6%9C%AC%E8%BD%AC%E6%B4%9B%E6%9D%89%E7%9F%B64&tls=1&peer=tesla.com&xtls=2&pbk=vNWTKraW-w1e5fUKLJhjDpslQX7OFnRbavF2VHowNhk&sid=cb37b04594
+vless://bm9uZTplZWJkZTEwNS0zYjg5LTQ5MTYtOTk4Ny0zOGE2NjcyYzVlMjNAdG1kLndleW9sby5jb206NDQz?remarks=%F0%9F%87%AF%F0%9F%87%B5%20%E6%B5%8B%E8%AF%95-%E6%97%A5%E6%9C%AC%E8%BD%AC%E6%B4%9B%E6%9D%89%E7%9F%B62&tls=1&peer=tesla.com&xtls=2&pbk=vNWTKraW-w1e5fUKLJhjDpslQX7OFnRbavF2VHowNhk&sid=cb37b04594
+vless://bm9uZTowN2Y5NGE2Ni03ZDRiLTRmYWEtODYxYS1mNDFiMDUxNmZiNjRAdG1kLndleW9sby5jb206NDQz?remarks=%F0%9F%87%AF%F0%9F%87%B5%20%E6%B5%8B%E8%AF%95-%E6%97%A5%E6%9C%AC%E8%BD%AC%E6%B4%9B%E6%9D%89%E7%9F%B63&tls=1&peer=tesla.com&xtls=2&pbk=vNWTKraW-w1e5fUKLJhjDpslQX7OFnRbavF2VHowNhk&sid=cb37b04594
+vless://bm9uZTozNmY2MWM4OS03YjNmLTQxMDUtOTA4MS02NjZkZTFkNWY2NzVAdG1kLndleW9sby5jb206NDQz?remarks=%F0%9F%87%AF%F0%9F%87%B5%20%E6%B5%8B%E8%AF%95-%E6%97%A5%E6%9C%AC%E8%BD%AC%E6%B4%9B%E6%9D%89%E7%9F%B66&tls=1&peer=tesla.com&xtls=2&pbk=vNWTKraW-w1e5fUKLJhjDpslQX7OFnRbavF2VHowNhk&sid=cb37b04594
+vless://bm9uZTphYzExMmNiNC01MzQ0LTQ5YzUtYjBhZC1hMjA2MmQ3ZDk1YzhAdG1kLndleW9sby5jb206NDQz?remarks=%F0%9F%87%AF%F0%9F%87%B5%20%E6%B5%8B%E8%AF%95-%E6%97%A5%E6%9C%AC%E7%9B%B4%E8%BF%9E&tls=1&peer=tesla.com&xtls=2&pbk=vNWTKraW-w1e5fUKLJhjDpslQX7OFnRbavF2VHowNhk&sid=cb37b04594
+vless://bm9uZTo2NGFiMTUyNS01NDY2LTQ1ZjktODc5Zi00MzZmNGU3YTgxMDZAdG1kLndleW9sby5jb206NDQz?remarks=%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20%E6%B5%8B%E8%AF%95-ATT%E5%AE%B6%E5%AE%BD&tls=1&peer=tesla.com&pbk=vNWTKraW-w1e5fUKLJhjDpslQX7OFnRbavF2VHowNhk&sid=cb37b04594
 http://bXJ3ZGZOVEQ4TTc5TEN1a0NpZWxkcnFaV3FzPTpleGF4Z3FrS2tkMFRBTXJDeGVvbldnPT1AanBnbW8xMDItY2RuLXJvdXRlLmNvdWxkZmxhcmUtY2RuLmNvbTo0NDM?method=auto&tfo=1#CF%E6%97%A5%E6%9C%AC02
 http://bXJ3ZGZOVEQ4TTc5TEN1a0NpZWxkcnFaV3FzPTpleGF4Z3FrS2tkMFRBTXJDeGVvbldnPT1AanBnbW8xMDEtY2RuLXJvdXRlLmNvdWxkZmxhcmUtY2RuLmNvbTo0NDM?method=auto&tfo=1#CF%E6%97%A5%E6%9C%AC01
 http://bXJ3ZGZOVEQ4TTc5TEN1a0NpZWxkcnFaV3FzPTpleGF4Z3FrS2tkMFRBTXJDeGVvbldnPT1AdHcyLWNkbi1yb3V0ZS5jb3VsZGZsYXJlLWNkbi5jb206NDQz?method=auto&tfo=1#CF%E5%8F%B0%E6%B9%BE02
@@ -234,9 +112,6 @@ http://bXJ3ZGZOVEQ4TTc5TEN1a0NpZWxkcnFaV3FzPTpleGF4Z3FrS2tkMFRBTXJDeGVvbldnPT1Ad
 http://bXJ3ZGZOVEQ4TTc5TEN1a0NpZWxkcnFaV3FzPTpleGF4Z3FrS2tkMFRBTXJDeGVvbldnPT1AaGtyZTMtY2RuLXJvdXRlLmNvdWxkZmxhcmUtY2RuLmNvbTo0NDM?method=auto&tfo=1#CF%E9%A6%99%E6%B8%AF01
 http://bXJ3ZGZOVEQ4TTc5TEN1a0NpZWxkcnFaV3FzPTpleGF4Z3FrS2tkMFRBTXJDeGVvbldnPT1AaGtyZTMtY2RuLXJvdXRlLmNvdWxkZmxhcmUtY2RuLmNvbTo0NDM?method=auto&tfo=1#CF%E9%A6%99%E6%B8%AF01
 http://bXJ3ZGZOVEQ4TTc5TEN1a0NpZWxkcnFaV3FzPTpleGF4Z3FrS2tkMFRBTXJDeGVvbldnPT1AdHdtb29uMS1jZG4tcm91dGUuY291bGRmbGFyZS1jZG46MTQ0Mw?method=auto&tfo=1#CF%E5%8F%B0%E6%B9%BE01
-
-
-#地区未命名
 trojan://25292afee2b9b2edae370489beb9c024@103.180.29.62:7012?allowInsecure=1&peer=www.yrtok.com#%E2%9A%A0%EF%B8%8F%E5%9C%B0%E5%8C%BA%E6%9C%AA%E5%91%BD%E5%90%8D
 trojan://25292afee2b9b2edae370489beb9c024@103.15.35.32:7012?allowInsecure=1&peer=www.yrtok.com#%E2%9A%A0%EF%B8%8F%E5%9C%B0%E5%8C%BA%E6%9C%AA%E5%91%BD%E5%90%8D
 trojan://25292afee2b9b2edae370489beb9c024@38.46.79.70:7012?allowInsecure=1&peer=www.yrtok.com#%E2%9A%A0%EF%B8%8F%E5%9C%B0%E5%8C%BA%E6%9C%AA%E5%91%BD%E5%90%8D
@@ -245,36 +120,3 @@ trojan://25292afee2b9b2edae370489beb9c024@118.71.159.178:7012?allowInsecure=1&pe
 trojan://25292afee2b9b2edae370489beb9c024@145.79.164.130:7012?allowInsecure=1&peer=145.79.164.130#%E2%9A%A0%EF%B8%8F%E5%9C%B0%E5%8C%BA%E6%9C%AA%E5%91%BD%E5%90%8D
 trojan://25292afee2b9b2edae370489beb9c024@23.251.55.19:7012?allowInsecure=1&peer=www.yrtok.com#%E2%9A%A0%EF%B8%8F%E5%9C%B0%E5%8C%BA%E6%9C%AA%E5%91%BD%E5%90%8D
 trojan://25292afee2b9b2edae370489beb9c024@45.253.244.215:7012?allowInsecure=1&peer=www.yrtok.com#%E2%9A%A0%EF%B8%8F%E5%9C%B0%E5%8C%BA%E6%9C%AA%E5%91%BD%E5%90%8D
-trojan://25292afee2b9b2edae370489beb9c024@128.128.83.98:7012?allowInsecure=1&peer=www.yrtok.com#%E2%9A%A0%EF%B8%8F%E5%9C%B0%E5%8C%BA%E6%9C%AA%E5%91%BD%E5%90%8D
-trojan://3963334576000212992@sweeping-satyr.cougar315.yachts:443?allowInsecure=1&mux=1#%E2%9A%A0%EF%B8%8F%E5%9C%B0%E5%8C%BA%E6%9C%AA%E5%91%BD%E5%90%8D
-trojan://3963334576000212992@mint-lion.cougar315.yachts:443?allowInsecure=1&mux=1#%E2%9A%A0%EF%B8%8F%E5%9C%B0%E5%8C%BA%E6%9C%AA%E5%91%BD%E5%90%8D
-trojan://3963334576000212992@guided-gecko.cougar315.yachts:443?allowInsecure=1&mux=1#%E2%9A%A0%EF%B8%8F%E5%9C%B0%E5%8C%BA%E6%9C%AA%E5%91%BD%E5%90%8D
-trojan://3963334576000212992@verified-crayfish.cougar315.yachts:443?allowInsecure=1&mux=1#%E2%9A%A0%EF%B8%8F%E5%9C%B0%E5%8C%BA%E6%9C%AA%E5%91%BD%E5%90%8D
-trojan://3963334576000212992@glad-caribou.cougar315.yachts:443?allowInsecure=1&mux=1#%E2%9A%A0%EF%B8%8F%E5%9C%B0%E5%8C%BA%E6%9C%AA%E5%91%BD%E5%90%8D
-trojan://3963334576000212992@still-koi.cougar315.yachts:443?allowInsecure=1&mux=1#%E2%9A%A0%EF%B8%8F%E5%9C%B0%E5%8C%BA%E6%9C%AA%E5%91%BD%E5%90%8D
-trojan://3963334602684375040@glad-serval.cougar315.yachts:443?allowInsecure=1&mux=1#%E2%9A%A0%EF%B8%8F%E5%9C%B0%E5%8C%BA%E6%9C%AA%E5%91%BD%E5%90%8D
-trojan://3963334576000212992@saved-ghoul.cougar315.yachts:443?allowInsecure=1&mux=1#%E2%9A%A0%EF%B8%8F%E5%9C%B0%E5%8C%BA%E6%9C%AA%E5%91%BD%E5%90%8D
-trojan://3963334602684375040@literate-cockatoo.cougar315.yachts:443?peer=literate-cockatoo.cougar315.yachts#%E2%9A%A0%EF%B8%8F%E5%9C%B0%E5%8C%BA%E6%9C%AA%E5%91%BD%E5%90%8D
-trojan://3963334576000212992@infinite-chow.cougar315.yachts:443?peer=infinite-chow.cougar315.yachts#%E2%9A%A0%EF%B8%8F%E5%9C%B0%E5%8C%BA%E6%9C%AA%E5%91%BD%E5%90%8D
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
