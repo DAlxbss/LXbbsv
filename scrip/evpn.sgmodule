@@ -1,0 +1,13 @@
+#!name=EVA Xray Connections Collector
+#!desc=被动抓取 https://api.cookshowroom.org/xray-connections 返回的 content.access_url，并提供本地导出/清空接口。
+#!author=Minis
+
+[MITM]
+hostname = %APPEND% api.cookshowroom.org
+
+[Script]
+# 捕获 /xray-connections 的响应，提取 content.access_url（VLESS 节点）
+eva_capture = type=http-response,pattern=^https?:\/\/api\.cookshowroom\.org\/xray-connections$,requires-body=1,binary-body-mode=0,script-path=eve_xray_capture.js,timeout=10
+
+# 本地导出/清空：在浏览器访问 http://xray-helper.local/export 或 http://xray-helper.local/clear
+eva_export = type=http-request,pattern=^https?:\/\/xray-helper\.local\/(export|clear)$,script-path=eve_xray_export.js,timeout=10
