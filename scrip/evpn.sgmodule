@@ -10,4 +10,4 @@ hostname = %APPEND% api.cookshowroom.org
 eva_capture = type=http-response,pattern=^https?:\/\/api\.cookshowroom\.org\/xray-connections$,requires-body=1,binary-body-mode=0,script-path=https://raw.githubusercontent.com/DAlxbss/LXbbsv/main/scrip/evpn.js,timeout=10
 
 # 本地导出/清空：在浏览器访问 http://xray-helper.local/export 或 http://xray-helper.local/clear
-eva_export = type=http-request,pattern=^https?:\/\/xray-helper\.local\/(export|clear)$,script-path=https://raw.githubusercontent.com/DAlxbss/LXbbsv/main/scrip/evpn2.js,timeout=10
+# eva_export = type=http-request,pattern=^https?:\/\/xray-helper\.local\/(export|clear)$,script-path=https://raw.githubusercontent.com/DAlxbss/LXbbsv/main/scrip/evpn2.js,timeout=10
