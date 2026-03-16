@@ -1,25 +1,50 @@
-/*
-  EVA xray-connections -> log access_url to Surge Script Log
-  - Keep it ultra-light to avoid timeouts
-  - Optional toast: set SHOW_TOAST=true
-*/
-
-const TAG = '[EVA-NODE]';
-const SHOW_TOAST = true; // set false to disable notification
-
+const STORE_KEY = 'EVA_XRAY_NODES';
+2	+
+3	+
 (function () {
+4	+
   try {
-    var body = $response.body || '';
-    if (!body) { $done({}); return; }
-    // Fast regex extraction (avoid JSON.parse)
-    var m = /"access_url"\s*:\s*"(vless:\/\/[^\"]+)"/.exec(body);
-    if (m && m[1]) {
-      var url = m[1];
-      $console.log(TAG + ' ' + url);
-      if (SHOW_TOAST) $notification.post('EVA 捕获到节点', '', url);
+5	+
+    const body = $response.body || '';
+6	+
+    if (!body) return $done({});
+7	+
+8	+
+    const j = JSON.parse(body);
+9	+
+    const url = j?.content?.access_url;
+10	+
+    if (!url || typeof url !== 'string' || !url.startsWith('vless://')) {
+11	+
+      return $done({});
+12	+
     }
+13	+
+14	+
+    const old = $persistentStore.read(STORE_KEY) || '';
+15	+
+    const set = new Set(old.split('\n').filter(Boolean));
+16	+
+    const isNew = !set.has(url);
+17	+
+    if (isNew) {
+18	+
+      set.add(url);
+19	+
+      const out = Array.from(set).join('\n');
+20	+
+      $persistentStore.write(out, STORE_KEY);
+21	+
+      $notification.post('EVA 节点捕获', '新增 access_url', url);
+22	+
+    }
+23	+
     $done({});
+24	+
   } catch (e) {
+25	+
     $done({});
+26	+
   }
+27	+
 })();
