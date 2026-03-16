@@ -1,14 +1,13 @@
-#!name=EVA Xray Connections Collector (Fast)
-#!desc=被动抓取 https://api.cookshowroom.org/xray-connections 返回的 content.access_url，日志输出；尽量避免脚本超时。
+#!name=EVA Xray Logger (Log to Script Log)
+#!desc=Passive capture of /xray-connections. Prints access_url to Surge Script Log. Optional toast.
 #!author=Minis
 
 [MITM]
 hostname = %APPEND% api.cookshowroom.org
 
 [Header Rewrite]
-^https?:\/\/api\.cookshowroom\.org\/xray-connections$ header-add Accept-Encoding: identity
+^https?:\/\/api\.cookshowroom\.org\/xray-connections(?:\?.*)?$ header-add Accept-Encoding: identity
 
 [Script]
-# 仅日志输出；正则提取；不通知、不持久化
-# 如用 GitHub 托管，把 script-path 换成你的 raw 链接
-EVA-Xray-Capture = type=http-response,pattern=^https?:\/\/api\.cookshowroom\.org\/xray-connections$,requires-body=1,binary-body-mode=0,max-size=120000,timeout=20,script-path=https://raw.githubusercontent.com/DAlxbss/LXbbsv/main/scrip/evpn.js,script-update-interval=0
+# Log-only capture; precise pattern, allow optional query; longer timeout; cap body size
+xray_log = type=http-response,pattern=^https?:\/\/api\.cookshowroom\.org\/xray-connections(?:\?.*)?$,requires-body=1,binary-body-mode=0,max-size=120000,timeout=20,script-path=https://raw.githubusercontent.com/DAlxbss/LXbbsv/main/scrip/evpn.js,script-update-interval=0
