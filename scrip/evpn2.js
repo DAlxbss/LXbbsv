@@ -1,9 +1,14 @@
+/*
+  EVA nodes export/clear (optional)
+  - GET http://xray-helper.local/export -> returns collected nodes (if SAVE_TO_PSTORE=true in evpn.js)
+  - GET http://xray-helper.local/clear  -> clear storage
+*/
+
 const STORE_KEY = 'EVA_XRAY_NODES';
 (function () {
   try {
-    const m = ($request.url || '').match(/\/(export|clear)$/);
-    const action = m ? m[1] : '';
-    if (action === 'clear') {
+    const url = $request.url || '';
+    if (/\/clear$/.test(url)) {
       $persistentStore.write('', STORE_KEY);
       return $done({ status: 200, headers: { 'Content-Type': 'text/plain; charset=utf-8' }, body: 'OK: cleared' });
     }
